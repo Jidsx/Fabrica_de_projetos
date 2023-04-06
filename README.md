@@ -50,7 +50,7 @@ Computador, IDE, MySQL, software de design gráfico e materiais para testes de s
 Explicação de como se deve utilizar o projeto.
 
 # Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
+Utilização de imagens e descrição do que foi testado.
 
 # Banco de Dados 🗂️
 Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
