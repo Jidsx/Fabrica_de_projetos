@@ -1,7 +1,7 @@
 
 # Universidade Subsídio Transporte (UST)
 # Versão: 1.0
-# Status do Projeto:⚠️ Espera  
+# Status do Projeto:⚠️ Em Andamento  
 # Tópicos
 🔹 Descrição do projeto
 
