@@ -33,13 +33,13 @@
 Desenvolvimento de um programa em Java com interface gráfica que facilite o processo da concessão de ajuda de custo para transporte escolar por parte de uma prefeitura.
 
 # Funcionalidades ⚙️
-✔️ Funcionalidade 1
+⚠️ Tela de Login
 
-✔️ Funcionalidade 2
+⚠️ Cadastro
 
-✔️ Funcionalidade 3
+⚠️ Visualização de dados
 
-✔️ Funcionalidade 4
+⚠️ Enviar solicitação
 
 # Distribuição
 Link para teste da versão disponibilizada.
@@ -62,13 +62,13 @@ Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv
 Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
 # Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
+## Fotos das telas do aplicativo até o presente momento
+<img src="https://user-images.githubusercontent.com/49123696/234726420-22b49ffe-8c70-4798-b75b-1378b604bbc0.jpg" width=500 />
+<img src="https://user-images.githubusercontent.com/49123696/234727261-1d3e6312-4c1d-4e91-b5d6-b8a009520d14.jpg" width=500 />
+<img src="https://user-images.githubusercontent.com/49123696/234727155-24d11f06-f46a-486a-96eb-d6c0385fd1c2.jpg" width=500 />
+<img src="https://user-images.githubusercontent.com/49123696/234727313-44b663b1-ab55-4fb7-b4d1-29aa1e8c7e50.jpg" width=500 />
 
-📝 Tarefa 1
 
-📝 Tarefa 2
-
-📝 Tarefa 3
 
 # Desenvolvedores/Contribuintes:
 Alexandre Sampaio,
