@@ -66,11 +66,13 @@ Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse
 
 # Recursos de inseridos 🧰
 ## Fotos das telas do aplicativo até o presente momento
-<img src="https://user-images.githubusercontent.com/49123696/234726420-22b49ffe-8c70-4798-b75b-1378b604bbc0.jpg" width=500 />
-<img src="https://user-images.githubusercontent.com/49123696/234727261-1d3e6312-4c1d-4e91-b5d6-b8a009520d14.jpg" width=500 />
-<img src="https://user-images.githubusercontent.com/49123696/234727155-24d11f06-f46a-486a-96eb-d6c0385fd1c2.jpg" width=500 />
-<img src="https://user-images.githubusercontent.com/49123696/234727313-44b663b1-ab55-4fb7-b4d1-29aa1e8c7e50.jpg" width=500 />
 
+<img src ="https://github.com/motielk/Fabrica_de_projetos/assets/49123696/0742a966-cec5-46a0-a07b-1e2c0562bb56" width=500/>
+<img src ="https://github.com/motielk/Fabrica_de_projetos/assets/49123696/04c17f70-919a-44a7-8a06-040f6a8c4dba" width=500/>
+<img src ="https://github.com/motielk/Fabrica_de_projetos/assets/49123696/581d1dbd-2a2e-40cf-bb3d-fe16fc9d3280" width=500/>
+<img src ="https://github.com/motielk/Fabrica_de_projetos/assets/49123696/14b413cd-c08c-4916-ad27-19677fdaceab" width=500/>
+<img src ="https://github.com/motielk/Fabrica_de_projetos/assets/49123696/acd62126-06f9-4032-a492-bb1ebb773411" width=500/>
+<img src ="https://github.com/motielk/Fabrica_de_projetos/assets/49123696/bb956638-d6aa-401f-b6a7-13a360999940" width=500/>
 
 
 # Desenvolvedores/Contribuintes:
