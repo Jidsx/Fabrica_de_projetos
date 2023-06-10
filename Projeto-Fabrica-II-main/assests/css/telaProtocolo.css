@@ -1,0 +1,153 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    background-color: #F5F5F5;
+    gap: 2rem;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 70px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    
+}
+header h1{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 49px;
+    color: #DF8C45;
+    margin-left: 4rem;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    margin-right: 4rem;
+    gap: 2rem;
+
+    
+
+}
+.links a{
+    font-weight: 300;
+    font-size: 18px;
+    color: #0a2a42a6;
+    text-decoration: none;
+}
+
+.links a:hover{
+    color: #0A2A42;
+
+}
+
+#tittle-text{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 40px;
+    padding-left: 10rem;
+    font-size: 18px;
+    color:#0A2A42;
+    
+}
+
+#panel-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    width: 100%;
+}
+#info-panel{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    height: 200px;
+    gap: 2rem;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+
+}
+#status-bar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 0.7rem;
+    margin-left: 2rem;
+}
+#status-bar h2{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #DF8C45;
+}
+
+#data{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#data-time{
+    display: flex;
+    color: #8D8C8C;
+    margin-left: 2rem;
+}
+
+#data a{
+    display: flex;
+    justify-content: center;
+    color: #8D8C8C;
+    border: 1px solid #8D8C8C;
+    border-radius: 8px;
+    padding: 2px;
+    width: 100px;
+    margin-right: 2rem;
+    text-decoration: none;
+    font-size: 15px;
+    
+}
+#data a:hover{
+    color: #DF8C45;
+    border: 1px solid #DF8C45;
+
+}
+
+#description-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    color: #8D8C8C;
+    font-size: 12px;
+}
+
+
+#email-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    color: #0A2A42;
+    font-size: 15px;
+    font-weight: 300px;
+    margin-top: 4rem;
+}
+
+
+
+

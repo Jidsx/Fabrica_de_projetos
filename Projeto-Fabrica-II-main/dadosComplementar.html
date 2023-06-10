@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assests/css/dadosComplementar.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet">
+    <title>Cadastro</title>
+    
+</head>
+<body>
+    <main>
+        <div id="container">
+            <div id="tittle-group">
+                <h1>Preencha seus dados</h1>
+                <p>estamos quase lá!</p>
+            
+            </div>
+            <form id="form-complement">
+                <!--Esquerdo-->  
+                <div id="left-form">
+                    <div class="input-field">
+                        <label>Nome Completo</label>
+                        <input id="name-form" type="text" placeholder="Digite seu nome completo" required>
+                    </div>
+
+                    <div class="input-field">
+                        <label>CPF</label>
+                        <input id="cpf-form" type="text" placeholder="Digite seu CPF" required>
+                    </div>
+
+                    <div class="input-field">
+                        <label>RG</label>
+                        <input id="rg-form" type="text" placeholder="Digite seu RG" required>
+                    </div>
+
+                    <div class="input-field">
+                        <label>Endereço</label>
+                        <input id="address-form" type="text" placeholder="Digite seu endereço" required>
+                    </div>
+
+                    <div class="input-field">
+                        <label>CEP</label>
+                        <input id="cep-form" type="text" placeholder="Digite seu CEP" required>
+                    </div>
+
+                    <div class="input-field">
+                        <label>Celular</label>
+                        <input id="cell-form" type="text" placeholder="Digite seu número" required>
+                    </div>
+
+                </div>  
+                <!--Direito-->  
+                <div id="right-form">
+                    <div class="input-field">
+                        <label>Titulo de Eleitor</label>
+                        <input id="eleitor-tittle" type="text" placeholder="Digite o n° do título de eleitor" required>
+                    </div>
+
+                    <div class="input-field">
+                        <label>Nome da Instituição</label>
+                        <input id="institution-form" type="text" placeholder="Digite o nome da instituição" required>
+                    </div>
+
+                    <div class="input-field">
+                        <label>Curso</label>
+                        <input id="course-form" type="text" placeholder="Digite o nome do curso" required>
+                    </div>
+                    <div class="upload-button-field">
+                        <div id="upload-residence" class="upload-button">
+                            <label for="arquivo">Comprovante-residencia</label>
+                            <input id="comprovante-residencia" type="file" accept="image/*,application/pdf" required>
+                        </div>
+                        <div id="upload-course" class="upload-button">
+                            <label for="arquivo">Comprovante-matrícula</label>
+                            <input id="comprovante-matrícula" type="file" accept="image/*,application/pdf" required>
+
+                        </div>
+                    </div>
+                    <!--Complementar função no JS-->
+                    <button type="submit" id="button-submit">Solicitar Bolsa Transporte</button>
+
+                </div>
+            </form>
+        </div>
+    </main>
+    <script src="assests/JS/dadosComplementar.js"></script>
+</body>
+</html>

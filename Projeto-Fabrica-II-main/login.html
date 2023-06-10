@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assests/css/login.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Login UST</title>
+</head>
+<body>
+    <main>
+        <!--SESSÃO DE CADASTRO-->
+        <section id="cadastro">
+            <div id="voltar">
+                <a href="index.html">
+                    <i class="fa-solid fa-arrow-left">voltar</i>
+                </a>
+            </div>
+
+            <div id="text_cadastro">
+                <h1>Cadastre-se</h1>
+                <p>Fique conectado conosco! Crie uma conta e <br> desfrute de todos os benefícios exclusivos. </p>
+            </div>
+
+            <!--BOTÃO CADASTRO-->
+            <a href="cadastro.html" id="register_button">
+                <button type="submit" id="cadastrar_button"> Cadastrar </button>
+            </a>
+        </section>
+
+        <!--SESSÃO DE LOGIN-->
+
+        <section id="loginscreen">
+        <!--FORM START-->
+            <form id="login-form">
+                <div id="header">
+                    <h1>Bem vindo de volta!</h1>
+                </div>
+
+            <!--ICONES SOCIAL MEDIA-->
+
+                <div id="social_media">
+                    <a href="#">
+                        <img src="assests/imagens/Facebook.svg" alt="facebook icon">
+                    </a>
+                    <a href="#">
+                        <img src="assests/imagens/Google.svg" alt="google icon">
+                    </a>
+                    <a href="#">
+                        <img src="assests/imagens/LinkedIn.svg" alt="linkedin icon">
+                    </a>
+                </div>
+
+            <!--PARÁGRAFO LOGIN-->
+
+                <div id="text_login">
+                    <p> ou use seu email para logar</p>
+                </div>
+
+            
+            <!--EMAIL-->
+                <div id="inputs">
+                    <div class="input-box">
+                        <div class="input-field">
+                            <i class="fa-solid fa-envelope"></i>
+                            <input type="text" id="email" placeholder="Email" required>
+                        </div>
+                        
+                    </div>
+            <!--SENHA-->
+                    <div class="input-box">
+                        <div class="input-field">
+                            <i class="fa-solid fa-lock"></i>
+                            <input type="password" id="senha" placeholder="Senha" required>
+                        </div>
+                        <div id="forgot_password">
+                            <a href="#">
+                                Esqueceu sua senha?
+                            </a>
+                        </div>    
+                    </div>
+                
+            <!--BOTÃO LOGIN-->
+            
+                <button type="submit" id="login_button">
+                    Login
+                </button>
+                </div>
+            </form>
+        <!--FORM ENDS-->
+        </section>
+    </main>
+</body>
+</html>

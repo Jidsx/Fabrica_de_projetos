@@ -1,0 +1,349 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+body{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 80px;
+    background-color: #ffff;
+    gap:20rem;
+    position: fixed;
+}
+
+#logo-header h3{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #0A2A42;
+
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+}
+nav a{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #0A2A42;
+}
+
+nav a:hover{
+    color: #0a2a42a6;
+    transition: 0.2s;
+}
+
+.buttons-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    
+}
+
+.buttons-header > a{
+    text-decoration: none;
+    
+
+}
+.button-action{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1.5px solid #DF8C45;
+    border-radius: 20px;
+    color: #DF8C45;
+    padding: 4px;
+    background-color: #ffff;
+    width: 120px;
+    font-size: 18px;
+    font-weight: 400;
+    cursor:pointer;
+}
+
+.button-action:hover{
+    color: #ffff;
+    background-color: #DF8C45;
+}
+
+.section{
+    display: flex;
+    
+}
+
+#main-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: nowrap;
+    min-height: 80vh;
+    width: 100%;
+    background-color: #DF8C45;
+    border-bottom-left-radius: 200px;
+   
+    
+
+}
+
+.image-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.image-box > img{
+    width: 600px;
+    margin-top: 2rem;
+
+}
+
+.text-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.5rem;
+
+}
+.text-box > h1 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 110px;
+    color: #ffff;
+}
+.text-box > p {
+    font-style: normal;
+    font-weight: 270;
+    font-size: 18px;
+    color: #ffff;
+}
+.link-action{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    background-color: #ffff;
+    border-radius: 20px;
+    color: #DF8C45;
+    padding: 10px;
+    width: 250px;
+    margin-top: 1rem;
+
+    
+}
+
+#second-section{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: nowrap;
+    min-height: 80vh;
+    width: 100%;
+    background-color: #ffff;
+}
+.call-text{
+    color: #0A2A42;
+    font-size: 64px;
+    
+}
+
+
+/* ------TERCEIRA SECTION------ */
+
+#third-section{
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+    background:#0A2A42;
+    border-radius: 400px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 10rem;
+    
+    
+}
+
+
+.text-box > h4{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 25px;
+    color: #DF8C45;
+    margin-bottom: 2rem;
+}
+
+
+
+
+
+/* ------QUARTA SECTION------ */
+
+#section-four{
+    background:#FFFFFF;
+    min-height: 100vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    
+}
+
+.box-team{
+    display: flex;
+    width: 1050px;
+    height: 900px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    
+
+}
+
+.image-team{
+    width: 300px;
+    height:300px;
+    
+    
+
+}
+
+#about-team{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    height: 800px;
+    
+}
+
+#h3-team-text{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    color: #DF8C45;
+
+}
+
+#h4-team-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #0A2A42;
+
+ }
+
+ #p-team-text{
+    font-style: normal;
+    font-weight: 310;
+    font-size: 18px;
+    line-height: 30px;
+    color: #0A2A42;
+
+
+ }
+
+ /* ------END PRINCIPAL------ */
+
+ /* ------RODA PÉ------ */
+
+footer{
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    background-color: #0A2A42;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#tittle-footer h1{
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+#list-menu{
+    display: flex;
+    padding: 1rem;
+}
+#list-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    list-style: none;
+    
+    
+}
+
+#list-links a{
+    text-decoration: none;
+    color: #FFFFFF;
+} 
+
+#contact-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 4rem;
+}
+
+#contact-list a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 16px;
+    
+}
+
+#create-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
+
+#create-info h4{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+}
+
+#create-info p{
+    font-style: normal;
+    font-weight: 250;
+    font-size: 10px;
+}
+
+/* ------ANIMAÇÕES DA PÁGINA----- */
+
+html{
+    scroll-behavior: smooth;
+   
+}
+
