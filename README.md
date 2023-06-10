@@ -1,6 +1,6 @@
 
 # Universidade Subsídio Transporte (UST)
-# Versão: 1.0
+# Versão: 1.2
 # Status do Projeto:⚠️ Em Andamento  
 # Tópicos
 🔹 Descrição do projeto
@@ -33,9 +33,9 @@
 Desenvolvimento de um programa em Java com interface gráfica que facilite o processo da concessão de ajuda de custo para transporte escolar por parte de uma prefeitura.
 
 # Funcionalidades ⚙️
-⚠️ Tela de Login
+✔️ Tela de Login
 
-⚠️ Cadastro
+✔️ Cadastro
 
 ⚠️ Visualização de dados
 
@@ -56,8 +56,11 @@ Utilização de imagens e descrição do que foi testado.
 Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
 
 # Linguagens, dependencias e libs utilizadas 📚
-![image](https://user-images.githubusercontent.com/49123696/230412190-bb7c7544-66bf-41e5-be66-f26b2cbf278b.png)
-![image](https://user-images.githubusercontent.com/49123696/230412338-5e589f3e-9214-4d86-ae97-d65475427084.png)
+![JavaScript-F7DF1E_style=for-the-badge logo=javascript logoColor=black](https://github.com/motielk/Fabrica_de_projetos/assets/49123696/511ab087-bb53-4bf9-a2dd-99f35688485e)
+![HTML5-E34F26_style=for-the-badge logo=html5 logoColor=white](https://github.com/motielk/Fabrica_de_projetos/assets/49123696/92bc25d9-a5eb-48f4-8f5b-7e3af38ff461)
+![CSS3-1572B6_style=for-the-badge logo=css3 logoColor=white](https://github.com/motielk/Fabrica_de_projetos/assets/49123696/8f350ae4-f078-42e5-91d4-bfbe784e6c9f)
+![Angular-DD0031_style=for-the-badge logo=angular logoColor=white](https://github.com/motielk/Fabrica_de_projetos/assets/49123696/24d88038-bac2-47df-a9d1-350bac27dc1f)
+
 # Resolvendo Problemas
 Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
