@@ -47,7 +47,7 @@ Link para teste da versão disponibilizada.
 # Pré-requisitos ⚠️
 Computador, IDE, MySQL, software de design gráfico e materiais para testes de software.
 # Como rodar a aplicação
-Explicação de como se deve utilizar o projeto.
+Para rodar o arquivo tem escrever npm start no terminal do vscode e mudar tambem as informações de conexão do banco de dados
 
 # Testes realizados
 Utilização de imagens e descrição do que foi testado.
