@@ -76,10 +76,10 @@ Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse
 
 
 # Desenvolvedores/Contribuintes:
-Alexandre Sampaio,
-Jean Israel,
-Murilo Henrique,
-Rene Battaglia,
+Alexandre Sampaio<br>
+Jean Israel<br>
+Murilo Henrique<br>
+Rene Battaglia<br>
 Vitor Hugo
 
 # Licença
