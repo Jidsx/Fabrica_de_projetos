@@ -1,7 +1,7 @@
 
 # Universidade Subsídio Transporte (UST)
 # Versão: 1.2
-# Status do Projeto:⚠️ Em Andamento  
+# Status do Projeto:✔️ Concluído 
 # Tópicos
 🔹 Descrição do projeto
 
@@ -37,9 +37,9 @@ Desenvolvimento de um programa em Java com interface gráfica que facilite o pro
 
 ✔️ Cadastro
 
-⚠️ Visualização de dados
+✔️ Visualização de dados
 
-⚠️ Enviar solicitação
+✔️ Enviar solicitação
 
 # Distribuição
 Link para teste da versão disponibilizada.
